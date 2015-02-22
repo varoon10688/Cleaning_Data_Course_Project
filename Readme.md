@@ -46,3 +46,7 @@ The tidy data set follows the princples used by
 *  The list of varibles in this set of data is too large and only varibles containing the name "mean" and "std" are  chosen from this set of data
 *  The chosen variables are melted to a new data set for reordering
 * The final tidy data set is reordered based subjects and activity names with mean of the chosen variables
+
+### Reading the tidy.txt file in R
+* Save the file locally in your working directory
+* tidy_data_loaded <- read.table("tidy.txt", header=TRUE)
