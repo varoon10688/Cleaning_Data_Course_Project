@@ -20,7 +20,7 @@ The dataset includes the following files:
 
 *  A tidy.txt file containing tidy data set. The data set contains mean measured variables (listed in codebook)for all the activities and subjects
 *  Codebook.md file explains all the activities and variables listed in the tidy file
-*  tidy.R code file that cleans the untidy data set from 
+*  run_analysis.R code file that cleans the untidy data set from 
    
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
